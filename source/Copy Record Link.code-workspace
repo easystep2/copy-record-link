@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "copy-record-link",
+			"path": "."
+		}
+	],
+	"settings": {
+		"al.codeAnalyzers": [
+			"${PerTenantExtensionCop}",
+			"${CodeCop}",
+			"${UICop}"
+		],
+		"al.enableCodeAnalysis": true,
+		"al.enableCodeActions": true,
+	}
+}
