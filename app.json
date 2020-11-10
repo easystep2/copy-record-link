@@ -2,7 +2,7 @@
     "id": "4c6324c5-deb5-4dc3-a1bf-92508beb2926",
     "name": "Copy Record Links",
     "publisher": "Easystep2 BV, The Netherlands",
-    "version": "16.5.1.1",
+    "version": "17.0.1.1",
     "brief": "Enables import and export of the record link table.",
     "description": "",
     "privacyStatement": "https://www.easystep2.nl//en/privacy_verklaring/",
@@ -10,26 +10,14 @@
     "help": "",
     "url": "",
     "logo": "./resources/img/copy-record-link.png",
-    "dependencies": [{
-            "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
-            "publisher": "Microsoft",
-            "name": "System Application",
-            "version": "16.0.0.0"
-        },
-        {
-            "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
-            "publisher": "Microsoft",
-            "name": "Base Application",
-            "version": "16.0.0.0"
-        }
-    ],
+    "runtime": "6.0",
+    "platform": "17.0.0.0",
+    "application": "17.0.0.0",
     "screenshots": [],
-    "platform": "16.0.0.0",
     "idRanges": [{
         "from": 50200,
         "to": 50249
     }],
     "contextSensitiveHelpUrl": "https://CopyRecordLinks.com/help/",
-    "showMyCode": true,
-    "runtime": "5.0"
+    "showMyCode": true
 }
