@@ -1,17 +1,37 @@
 {
 	"folders": [
 		{
-			"name": "copy-record-link",
 			"path": "."
 		}
 	],
 	"settings": {
+		"al.enableCodeAnalysis": true,
 		"al.codeAnalyzers": [
 			"${PerTenantExtensionCop}",
 			"${CodeCop}",
 			"${UICop}"
 		],
-		"al.enableCodeAnalysis": true,
-		"al.enableCodeActions": true,
+		"al.enableCodeActions": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Dockter BC17x Sandbox",
+				"request": "launch",
+				"type": "al",
+				"environmentType": "OnPrem",
+				"server": "http://bc170",
+                "serverInstance": "BC",
+				"tenant": "default",
+				"authentication": "UserPassword",
+				"startupObjectId": 22,
+				"startupObjectType": "Page",
+				"breakOnError": true,
+				"launchBrowser": true,
+				"enableLongRunningSqlStatements": true,
+				"enableSqlInformationDebugger": true
+			}
+		]
 	}
 }

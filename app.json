@@ -10,7 +10,6 @@
     "help": "",
     "url": "",
     "logo": "./resources/img/copy-record-link.png",
-    "runtime": "6.0",
     "platform": "17.0.0.0",
     "application": "17.0.0.0",
     "screenshots": [],
@@ -19,5 +18,7 @@
         "to": 50249
     }],
     "contextSensitiveHelpUrl": "https://CopyRecordLinks.com/help/",
-    "showMyCode": true
+    "runtime": "6.0",
+    "showMyCode": true,
+    "suppressWarnings": ["AA0072"]
 }
