@@ -34,7 +34,7 @@
 				"enableSqlInformationDebugger": true
 			},
 			{
-				"name": "Microsoft cloud sandbox",
+				"name": "Microsoft cloud Sandbox",
 				"request": "launch",
 				"type": "al",
 				"environmentType": "Sandbox",
