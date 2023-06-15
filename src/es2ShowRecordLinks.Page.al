@@ -29,44 +29,44 @@ page 50200 es2ShowRecordLinks
             repeater(Control1)
             {
                 ShowCaption = false;
-                field("Link ID"; "Link ID")
+                field("Link ID"; Rec."Link ID")
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'Link Id as primary key created from autoindex.';
                 }
 
-                field(URL1; URL1)
+                field(URL1; Rec.URL1)
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'The hyperlink containing the location of the file or website referenced.';
                 }
 
-                field(Description; Description)
+                field(Description; Rec.Description)
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'The description of the record link.';
                 }
-                field(Type; Type)
+                field(Type; Rec.Type)
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'The type of the record link, this could be either Link or Note.';
                 }
-                field("User ID"; "User ID")
+                field("User ID"; Rec."User ID")
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'The user who created the record link.';
                 }
-                field(Company; Company)
+                field(Company; Rec.Company)
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'The company the record link is created in.';
                 }
-                field(Notify; Notify)
+                field(Notify; Rec.Notify)
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'Determines if an other user should be notified with this note.';
                 }
-                field("To User ID"; "To User ID")
+                field("To User ID"; Rec."To User ID")
                 {
                     ApplicationArea = Basic, Suite;
                     ToolTip = 'The user who should be notified with this note.';
@@ -123,7 +123,7 @@ page 50200 es2ShowRecordLinks
         ExportImportRecordLinks.SetDestination(OutStr);
         ExportImportRecordLinks.Export();
         if FileName = '' then
-            exit(FileManagement.BLOBExport(TempBlob, TableCaption + '.xml', true));
+            exit(FileManagement.BLOBExport(TempBlob, Rec.TableCaption + '.xml', true));
         exit(FileManagement.BLOBExport(TempBlob, FileName, false));
     end;
 

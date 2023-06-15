@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Copy Record Links">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3964262275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>es2ZetadocsMapping</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 3607458727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field Archived By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 1187818990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archived Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field Archived Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 4237283545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DocumentType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field DocumentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 1545435603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filename</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field Filename - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 956471723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RecId</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field RecId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 990237406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SubFolder</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field SubFolder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 2419545694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ZetadocsOrganization</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field ZetadocsOrganization - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 1613370008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ZetadocsRecordLink</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field ZetadocsRecordLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 678251552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ZetadocsRecordLinkType</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field ZetadocsRecordLinkType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3964262275 - Field 2520915663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ZetadocsRecordNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table es2ZetadocsMapping - Field ZetadocsRecordNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Easystep2 Show record Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 3133801257 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The company the record link is created in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control Company - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The description of the record link.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 3574213391 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Link Id as primary key created from autoindex.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control Link ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 747683197 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Determines if an other user should be notified with this note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control Notify - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 2146254297 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The user who should be notified with this note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control To User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The type of the record link, this could be either Link or Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 589256022 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The hyperlink containing the location of the file or website referenced.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control URL1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The user who created the record link.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Control User ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Action 4275821035 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export the existing record links to an XML file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Action ExportUserGroups - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Action 4275821035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export Record Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Action ExportUserGroups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Action 2786344284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Record Links from an XML file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Action ImportUserGroups - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4145920691 - Action 2786344284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Record Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ShowRecordLinks - Action ImportUserGroups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>es2ZetaDocsMapping</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - NamedType 2268774744" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://wwbcstorage.blob.core.windows.net/zetadocs/Zetadocs%1Archive/%2/%3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - NamedType BlobstorageUriTok</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 3607458727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Archived By field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control Archived By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 1187818990 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Archived Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control Archived Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 4237283545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DocumentType field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control DocumentType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 1545435603 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Filename field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control Filename - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 956471723 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the RecId field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control RecId - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 990237406 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the SubFolder field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control SubFolder - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 329424276 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Title field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control Title - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 2419545694 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ZetadocsOrganization field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control ZetadocsOrganization - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 1613370008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ZetadocsRecordLink field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control ZetadocsRecordLink - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 678251552 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ZetadocsRecordLinkType field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control ZetadocsRecordLinkType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Control 2520915663 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ZetadocsRecordNo field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Control ZetadocsRecordNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Action 170238579 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate the record links of this Zetadocs reference.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Action GenRecordLink - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 986052387 - Action 170238579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate Record Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page es2ZetaDocsMapping - Action GenRecordLink - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3907769773 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Export/Import Record Links</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort es2ExportImportRecordLinks - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
